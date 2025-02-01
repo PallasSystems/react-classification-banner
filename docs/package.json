@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "@pallassystems/react-bootstrap-table": ">=0.7.9",
-    "@pallassystems/website-core": ">=0.7.13",
+    "@pallassystems/website-core": ">=0.7.20",
     "prismjs": "^1.29.0",
     "react": ">=19.0.0",
     "react-bootstrap": ">=2.10.0",
